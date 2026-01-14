@@ -3,10 +3,8 @@
 </div>
 
 # 👋 Hey! I'm Hakan.
----
 
 ## 🚀 About Me
----
 
 • 💻 I'm currently working with **React and the JavaScript ecosystem**.
 

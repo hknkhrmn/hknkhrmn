@@ -60,7 +60,7 @@ const myInterests = {
 ## 🎯 My Recent Projects
 
 - 🔗 **[Sport Center for React](https://github.com/hknkhrmn/Patika-Frontend-Bootcamp/tree/41b71f3790984d25ba1d35179bdf5cae92a3e9a3/Week-9/sports-center-react)** 
-- 🔗 **[Dice Game]([https://github.com/username/project2](https://github.com/hknkhrmn/Patika-Frontend-Bootcamp/tree/41b71f3790984d25ba1d35179bdf5cae92a3e9a3/Week-9/dice-game)** 
+- 🔗 **[Dice Game](https://github.com/hknkhrmn/Patika-Frontend-Bootcamp/tree/41b71f3790984d25ba1d35179bdf5cae92a3e9a3/Week-9/dice-game)** 
 - 🔗 **[Patika Bootcamp All Project](https://github.com/hknkhrmn/Patika-Frontend-Bootcamp.git)** 
 
 ---

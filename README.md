@@ -1,5 +1,4 @@
 <div align="center">
-  <br><br><br><br>
   <img align="right" 
     alt="Coding" 
     width="400" 

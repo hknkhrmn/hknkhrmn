@@ -64,6 +64,7 @@ const myInterests = {
 ---
 
 ## 🎯 My Recent Projects
+- 🔗 **[Luxury Turkey Tours](https://github.com/hknkhrmn/luxury-turkey-tours.git)**
 - 🔗 **[Hakan Jump](https://hakan-jump-1.onrender.com)**
 - 🔗 **[Library App](https://github.com/hknkhrmn/LibraryAppFrontend.git)**
 - 🔗 **[Question App](https://github.com/hknkhrmn/Question-App.git)** 

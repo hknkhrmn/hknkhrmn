@@ -11,9 +11,11 @@
 
 • 💻 I'm currently working with **React and the JavaScript ecosystem**.
 
-• 🎓 I'm attending the **Frontend Developer Bootcamp** at **Patika.dev**.
+• 🎓 I graduated from the **Front-End Developer Training Camp** organized by **Patika.dev**.
 
-• 📚 I'm currently learning **JavaScript**.
+• 🔩 I'm also a Mechanical Engineer.
+
+• 📚 I'm currently learning **React and Backend Technologies**.
 
 • 🤖 I'm interested in AI and Web Projects.
 

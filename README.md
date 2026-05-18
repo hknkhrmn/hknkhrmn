@@ -13,6 +13,8 @@
 
 • 🎓 I graduated from the **Front-End Developer Training Camp** organized by **Patika.dev**.
 
+• 🎓 I graduated from the **Computer Programming program** at **Anadolu University**.
+
 • 🔩 I'm also a Mechanical Engineer.
 
 • 📚 I'm currently learning **React and Backend Technologies**.
